@@ -1,0 +1,5 @@
+# Voice stack, pinned. torch 2.6.0 comes from the base image; these must stay compatible with it.
+chatterbox-tts==0.1.7
+torchvision==0.21.0
+torchaudio==2.6.0
+snac==1.2.1
